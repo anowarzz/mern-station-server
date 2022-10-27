@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "title": "HTML"
+  },
+  {
+    "id": "02",
+    "title": "Css"
+  },
+  {
+    "id": "03",
+    "title": "Bootstrap Css"
+  },
+  {
+    "id": "04",
+    "title": "Tailwind Css"
+  },
+  {
+    "id": "05",
+    "title": "JavaScript"
+  },
+  {
+    "id": "06",
+    "title": "React Js"
+  },
+  {
+    "id": "07",
+    "title": "Node Js"
+  },
+  {
+    "id": "08",
+    "title": "Express Js"
+  },
+
+  {
+    "id": "09",
+    "title": "Mongo DB"
+  },
+
+  {
+    "id": "10",
+    "title": "Github"
+  }
+]

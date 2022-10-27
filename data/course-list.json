@@ -1,0 +1,75 @@
+[
+  {
+    "id": "01",
+    "title": "HTML",
+    "image": "https://i.ibb.co/34cp7Ks/html.png",
+    "description": "html",
+    "courseDuration": "7 Day"
+  },
+  {
+    "id": "02",
+    "title": "CSS",
+    "image": "https://i.ibb.co/XpJLJ9T/css.png",
+    "description": "hellow",
+    "courseDuration": "7 Day "
+  },
+  {
+    "id": "03",
+    "title": "Bootstrap CSS",
+    "image": " https://i.ibb.co/2yjGmv1/bootstrap.png",
+    "description": "bootstrap",
+    "courseDuration": "7 Day"
+  },
+  {
+    "id": "04",
+    "title": "Tailwind CSS",
+    "image": "https://i.ibb.co/DGkR3Tr/tailwind.png",
+    "description": "tailwind",
+    "courseDuration": "7 Day"
+  },
+  {
+    "id": "05",
+    "title": "JavaScript",
+    "image": "https://i.ibb.co/gSvFD7W/javascript.png",
+    "description": "hellwo",
+    "courseDuration": "7 Day"
+  },
+  {
+    "id": "06",
+    "title": "React Js",
+    "image":"https://i.ibb.co/BqJN9Kf/react-logo.png",
+    "description": "react",
+    "courseDuration": "7 Day"
+  },
+  {
+    "id": "07",
+    "title": "Node Js",
+    "image": "https://i.ibb.co/4YC1gct/nodeJs.png",
+    "description": "hellwo",
+    "courseDuration": "7 Day"
+  },
+
+  {
+    "id": "08",
+    "title": "Express Js",
+    "image": "https://i.ibb.co/6rGQgRb/node-express-js.png",
+    "description": "hellwo",
+    "courseDuration": "7 Day"
+  },
+
+  {
+    "id": "09",
+    "title": "Mongo DB",
+    "image": "https://i.ibb.co/RBX88bR/MongoDB.png",
+    "description": "mogodb",
+    "courseDuration": "7 Day"
+  },
+
+  {
+    "id": "10",
+    "title": "Github",
+    "image": "https://i.ibb.co/k4SP74D/github.jpg",
+    "description": "hellow",
+    "courseDuration": "7 Day"
+  }
+]
