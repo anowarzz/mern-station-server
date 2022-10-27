@@ -3,50 +3,57 @@
     "id": "01",
     "title": "HTML",
     "image": "https://i.ibb.co/34cp7Ks/html.png",
-    "description": "html",
-    "courseDuration": "7 Day"
+    "description": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation .In this Course You will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
+    "courseDuration": "25 Hours",
+    "price":"30"
   },
   {
     "id": "02",
     "title": "CSS",
     "image": "https://i.ibb.co/XpJLJ9T/css.png",
     "description": "hellow",
-    "courseDuration": "7 Day "
+    "courseDuration": "50 Hours ",
+    "price":"40"
   },
   {
     "id": "03",
     "title": "Bootstrap CSS",
     "image": "https://i.ibb.co/7rr1wx0/bootstrap-new.png",
     "description": "bootstrap",
-    "courseDuration": "7 Day"
+    "courseDuration": "35 Hours",
+    "price":"25"
   },
   {
     "id": "04",
     "title": "Tailwind CSS",
     "image": "https://i.ibb.co/K7tzZbJ/tailwind-logo.png",
     "description": "tailwind",
-    "courseDuration": "7 Day"
+    "courseDuration": "35 Hours",
+    "price":"25"
   },
   {
     "id": "05",
     "title": "JavaScript",
     "image": "https://i.ibb.co/bKjc4jP/javascript-2.png",
     "description": "hellwo",
-    "courseDuration": "7 Day"
+    "courseDuration": "120 Hours",
+    "price":"120"
   },
   {
     "id": "06",
     "title": "React Js",
     "image":"https://i.ibb.co/qgcYWnR/react.png",
     "description": "react",
-    "courseDuration": "7 Day"
+    "courseDuration": "90 Hours",
+    "price":"100"
   },
   {
     "id": "07",
     "title": "Node Js",
     "image": "https://i.ibb.co/r6RC5zG/nodejs-2.png",
     "description": "hellwo",
-    "courseDuration": "7 Day"
+    "courseDuration": "30 Hours",
+    "price":"90"
   },
 
   {
@@ -54,7 +61,8 @@
     "title": "Express Js",
     "image": "https://i.ibb.co/X3d59rb/expresss.png",
     "description": "hellwo",
-    "courseDuration": "7 Day"
+    "courseDuration": "20 Hours",
+    "price":"50"
   },
 
   {
@@ -62,7 +70,8 @@
     "title": "Mongo DB",
     "image": "https://i.ibb.co/RBX88bR/MongoDB.png",
     "description": "mogodb",
-    "courseDuration": "7 Day"
+    "courseDuration": "25 Hours",
+    "price":"90"
   },
 
   {
@@ -70,6 +79,7 @@
     "title": "Github",
     "image": "https://i.ibb.co/cQVvZXy/github.png",
     "description": "hellow",
-    "courseDuration": "7 Day"
+    "courseDuration": "7 Hours",
+    "price":"40"
   }
 ]
