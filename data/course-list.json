@@ -16,35 +16,35 @@
   {
     "id": "03",
     "title": "Bootstrap CSS",
-    "image": " https://i.ibb.co/2yjGmv1/bootstrap.png",
+    "image": "https://i.ibb.co/7rr1wx0/bootstrap-new.png",
     "description": "bootstrap",
     "courseDuration": "7 Day"
   },
   {
     "id": "04",
     "title": "Tailwind CSS",
-    "image": "https://i.ibb.co/DGkR3Tr/tailwind.png",
+    "image": "https://i.ibb.co/K7tzZbJ/tailwind-logo.png",
     "description": "tailwind",
     "courseDuration": "7 Day"
   },
   {
     "id": "05",
     "title": "JavaScript",
-    "image": "https://i.ibb.co/gSvFD7W/javascript.png",
+    "image": "https://i.ibb.co/bKjc4jP/javascript-2.png",
     "description": "hellwo",
     "courseDuration": "7 Day"
   },
   {
     "id": "06",
     "title": "React Js",
-    "image":"https://i.ibb.co/BqJN9Kf/react-logo.png",
+    "image":"https://i.ibb.co/qgcYWnR/react.png",
     "description": "react",
     "courseDuration": "7 Day"
   },
   {
     "id": "07",
     "title": "Node Js",
-    "image": "https://i.ibb.co/4YC1gct/nodeJs.png",
+    "image": "https://i.ibb.co/r6RC5zG/nodejs-2.png",
     "description": "hellwo",
     "courseDuration": "7 Day"
   },
@@ -52,7 +52,7 @@
   {
     "id": "08",
     "title": "Express Js",
-    "image": "https://i.ibb.co/6rGQgRb/node-express-js.png",
+    "image": "https://i.ibb.co/X3d59rb/expresss.png",
     "description": "hellwo",
     "courseDuration": "7 Day"
   },
@@ -68,7 +68,7 @@
   {
     "id": "10",
     "title": "Github",
-    "image": "https://i.ibb.co/k4SP74D/github.jpg",
+    "image": "https://i.ibb.co/cQVvZXy/github.png",
     "description": "hellow",
     "courseDuration": "7 Day"
   }
