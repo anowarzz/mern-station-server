@@ -11,13 +11,13 @@ const courseNames = require('./data/course-names.json')
 
 
 // Course Title
-app.get('/course-names', (req, res) => {
+app.get('/course-titles', (req, res) => {
     res.send(courseNames)
 })
 
 
 // All Course Details
-app.get('/course-list', (req, res) => {
+app.get('/courses', (req, res) => {
     res.send(courseList)
 })
 
@@ -37,7 +37,6 @@ app.get('/course/:id', (req, res) => {
 app.get('/', (req, res) => {
     res.send("Server is running or may be flying")
 });
-
 
 // Server running test
 app.listen(port, () => {
