@@ -9,12 +9,28 @@ const port = process.env.PORT || 5000;
 const courseList = require('./data/course-list.json')
 const courseNames = require('./data/course-names.json')
 
-app.get('/course-list', (req, res) => {
-    res.send(courseList)
-})
+
+// Course Title
 app.get('/course-names', (req, res) => {
     res.send(courseNames)
 })
+
+
+// All Course Details
+app.get('/course-list', (req, res) => {
+    res.send(courseList)
+})
+
+
+
+
+// Single Course with id
+app.get('/course/:id', (req, res) => {
+    const id  = req.params.id
+    const selectedCourse = courseList.find(course => course.id === id)
+    res.send(selectedCourse)
+})
+
 
 
 // Testing The API
