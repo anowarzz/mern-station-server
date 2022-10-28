@@ -5,81 +5,134 @@
     "image": "https://i.ibb.co/34cp7Ks/html.png",
     "description": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation .In this Course You will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
     "courseDuration": "25 Hours",
-    "price":"30"
+    "price":"30",
+    "ratings":"4.9",
+    "instructor": {
+      "name":"Jeff Barnett",
+       "photo":"https://i.ibb.co/kBqBn7H/instructor-3.jpg"
+    }
   },
   {
     "id": "02",
     "title": "CSS",
     "image": "https://i.ibb.co/XpJLJ9T/css.png",
-    "description": "hellow",
+    "description": "We'll take you from the very basics of CSS3 to some fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing Flex Box , Grid Sytsem and Advance Css Transitions",
     "courseDuration": "50 Hours ",
-    "price":"40"
+    "price":"40",
+    "ratings":"4.7",
+    "instructor":{
+      "name":"Keith Holland",
+      "photo":"https://i.ibb.co/48R0Pds/instructor-2.jpg"
+    }
   },
   {
     "id": "03",
     "title": "Bootstrap CSS",
     "image": "https://i.ibb.co/7rr1wx0/bootstrap-new.png",
-    "description": "bootstrap",
+    "description": "This course will give you an Excellent idea of client-side web UI frameworks, in particular Bootstrap 5. You will learn about grids and responsive design, Bootstrap CSS. You will learn about CSS preprocessors, Less and Sass. At the end of this course, you will be able to a)Set up, design and style a web page using Bootstrap 5 and its components, Create a responsive web page design, and  Make use of web tools to setup and manage web sites.This course also includes an honors track that enables you to work on your own project developing a website using Bootstrap 5.Students enrolling in this course should have prior good working knowledge of HTML and RAW Css",
     "courseDuration": "35 Hours",
-    "price":"25"
+    "price":"25",
+    "ratings":"4.6",
+    "instructor":{
+      "name":"Peter Grant",
+      "photo":"https://i.ibb.co/c2NK5RK/instructor-1.jpg"
+    }
   },
   {
     "id": "04",
     "title": "Tailwind CSS",
     "image": "https://i.ibb.co/K7tzZbJ/tailwind-logo.png",
-    "description": "tailwind",
+    "description": "Tailwind CSS is a utility-first CSS framework designed to enable users to create applications faster and easier. You can use utility classes to control the layout, color, spacing, typography, shadows, and more to create a completely custom component design — without leaving your HTML or writing a single line of custom CSS. In this course we will cover everything that you need to know about building a Most Customized UI Using Tailwind CSS. Students enrolling in this course should have prior good working knowledge of HTML and RAW Css",
     "courseDuration": "35 Hours",
-    "price":"25"
+    "price":"25",
+    "ratings":"4.8",
+    "instructor": {
+      "name":"Jeff Barnett",
+       "photo":"https://i.ibb.co/kBqBn7H/instructor-3.jpg"
+    }
   },
   {
     "id": "05",
     "title": "JavaScript",
     "image": "https://i.ibb.co/bKjc4jP/javascript-2.png",
-    "description": "hellwo",
+    "description": "What fun would a web site be if there was no functionality to it? In this Course, we are going to concentrate on learning the fundamentals and the advance topics of the Javascript language. A lot of even seasoned developers “tinker” with Javascript without really understanding how the language works. That leads to viewing the language as more of a nuisance instead of a powerful tool. That is why we are going to concentrate not only on the “how” but also on the “why”, so you are empowered by the Javascript language features, not confused by them. We’ll cover just about everything - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation.",
     "courseDuration": "120 Hours",
-    "price":"120"
+    "price":"120",
+    "ratings":"4.5",
+    "instructor":{
+      "name":"Peter Grant",
+      "photo":"https://i.ibb.co/c2NK5RK/instructor-1.jpg"
+    }
   },
   {
     "id": "06",
     "title": "React Js",
     "image":"https://i.ibb.co/qgcYWnR/react.png",
-    "description": "react",
+    "description": "This course explores Javascript based front-end application development, and in particular the React library . In This course we will use JavaScript ES6 for developing React application. React is a JavaScript library used to build responsive and streamlined user interfaces for web and mobile applications. It lets you compose complex UIs from small and isolated pieces of code called “components”. React can render on the server using Node and can power native apps using React Native. React will let you write applications that behave consistently, run in different environments and are easy to test and deploy. A good working knowledge of JavaScript, especially ES 5 is strongly recommended.",
     "courseDuration": "90 Hours",
-    "price":"100"
+    "price":"100",
+    "ratings":"4.7",
+    "instructor":{
+      "name":"Keith Holland",
+      "photo":"https://i.ibb.co/48R0Pds/instructor-2.jpg"
+    }
   },
   {
     "id": "07",
     "title": "Node Js",
     "image": "https://i.ibb.co/r6RC5zG/nodejs-2.png",
-    "description": "hellwo",
-    "courseDuration": "30 Hours",
-    "price":"90"
+    "description": "Node.js is widely used for back-end development and is the leading framework on a global scale. It has grown in popularity over the past several years and continues to stand the competition in the future, making organizations worldwide choose it over other technologies. Node.js’s powerful cross-platform feature allows developers to build progressive web applications and native mobile applications, so Node.js developers are in high demand. Node.js certification will certainly enhance your chance of landing a good job with handsome salary. This course is a great introduction to the concepts of server-side web development. You’ll learn the different parts that make up the back-end of a website or web application, and you’ll gain familiarity with the Node.js runtime environment. After this course, you’ll be set up to explore popular Node frameworks like Express.js to build powerful applications. A strong foundation in JavaScript is a prerequisite for this course. Previous experience with asynchronous JavaScript and HTML would be helpful but isn’t mandatory.",
+    "courseDuration": "30 Hours", 
+    "price":"90",
+    "ratings":"4.4",
+    "instructor": {
+      "name":"Jeff Barnett",
+       "photo":"https://i.ibb.co/kBqBn7H/instructor-3.jpg"
+    }
   },
 
   {
     "id": "08",
     "title": "Express Js",
     "image": "https://i.ibb.co/X3d59rb/expresss.png",
-    "description": "hellwo",
+    "description": "In this course, you’ll learn how to build HTTP servers in Node.js using the Express framework. Express allows you to start and configure a server with very little overhead and instead focus on the important work of defining server behavior.You’ll learn how to create routes to implement server behavior for different HTTP methods and paths. You’ll also learn how to use Express’s most powerful features, such as routers and middleware, in order to write clean and readable server-side code. Before you begin Learn Express, we recommend that you understand the basics of JavaScript.",
     "courseDuration": "20 Hours",
-    "price":"50"
+    "price":"50",
+    "ratings":"4.4",
+    "instructor":{
+      "name":"Keith Holland",
+      "photo":"https://i.ibb.co/48R0Pds/instructor-2.jpg"
+    }
   },
 
   {
     "id": "09",
     "title": "Mongo DB",
     "image": "https://i.ibb.co/RBX88bR/MongoDB.png",
-    "description": "mogodb",
+    "description": "In this course, you’ll learn more about NoSQL databases, MongoDB, its basic operations, and some of its more advanced features. By the end of the course you’ll be able to Explain what a NoSQL database is.Describe the common types of NoSQL databases and their major features.Explain what MongoDB is and the advantages of using it.Articulate how a document-oriented database is structured and the way MongoDB stores data.Explain the importance of data modeling and the primary ways to model data in MongoDB.Use MongoDB to perform basic CRUD database operations. Create and use indexes in MongoDB to improve the efficiency of your queries.Explain the concept of aggregation and the basic components of an aggregation pipeline. Explain the benefits and use cases of MongoDB Atlas, as well as set up your very own atlas cluster.",
     "courseDuration": "25 Hours",
-    "price":"90"
+    "price":"90",
+    "ratings":"4.6",
+    "instructor":{
+      "name":"Peter Grant",
+      "photo":"https://i.ibb.co/c2NK5RK/instructor-1.jpg"
+    }
   },
 
   {
     "id": "10",
     "title": "Github",
     "image": "https://i.ibb.co/cQVvZXy/github.png",
-    "description": "hellow",
+    "description": "Git is used across the world to help developers keep track of changes while working on different parts of the same project. GitHub is a web app that can integrate with Git. Together, users can host, organize, explore, and collaborate on code with teams and the wider developer community. This course gives you an introduction to Git and GitHub — and how they work together as you build projects. IN this course you will Learn how Git and GitHub work,  Use common Git commands Collaborate using Git and GitHub",
     "courseDuration": "7 Hours",
-    "price":"40"
+    "price":"40",
+    "ratings":"4.7",
+    "instructor": {
+      "name":"Jeff Barnett",
+       "photo":"https://i.ibb.co/kBqBn7H/instructor-3.jpg"
+    }
   }
 ]
+
+
+
