@@ -2,7 +2,7 @@
   {
     "id": "01",
     "title": "HTML",
-    "image": "https://i.ibb.co/34cp7Ks/html.png",
+    "image": "https://i.ibb.co/56RG3Qm/html.png",
     "description": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation .In this Course You will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
     "courseDuration": "25 Hours",
     "price":"30",
@@ -15,7 +15,7 @@
   {
     "id": "02",
     "title": "CSS",
-    "image": "https://i.ibb.co/XpJLJ9T/css.png",
+    "image": "https://i.ibb.co/rFNbScp/css.png",
     "description": "We'll take you from the very basics of CSS3 to some fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing Flex Box , Grid Sytsem and Advance Css Transitions",
     "courseDuration": "50 Hours ",
     "price":"40",
@@ -108,7 +108,7 @@
   {
     "id": "09",
     "title": "Mongo DB",
-    "image": "https://i.ibb.co/RBX88bR/MongoDB.png",
+    "image": "https://i.ibb.co/xHnsg5t/MongoDB.png",
     "description": "In this course, you’ll learn more about NoSQL databases, MongoDB, its basic operations, and some of its more advanced features. By the end of the course you’ll be able to Explain what a NoSQL database is.Describe the common types of NoSQL databases and their major features.Explain what MongoDB is and the advantages of using it.Articulate how a document-oriented database is structured and the way MongoDB stores data.Explain the importance of data modeling and the primary ways to model data in MongoDB.Use MongoDB to perform basic CRUD database operations. Create and use indexes in MongoDB to improve the efficiency of your queries.Explain the concept of aggregation and the basic components of an aggregation pipeline. Explain the benefits and use cases of MongoDB Atlas, as well as set up your very own atlas cluster.",
     "courseDuration": "25 Hours",
     "price":"90",
