@@ -6,6 +6,7 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 
 
+
 const courseList = require('./data/course-list.json')
 const courseNames = require('./data/course-names.json')
 
@@ -25,7 +26,7 @@ app.get('/courses', (req, res) => {
 
 
 // Single Course with id
-app.get('/course/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id  = req.params.id
     const selectedCourse = courseList.find(course => course.id === id)
     res.send(selectedCourse)
